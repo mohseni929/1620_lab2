@@ -1,3 +1,28 @@
 h1{
-    color: blue;
+    color: #060E0D;
 }
+p{
+    font-family: 'PT Serif', serif;
+}
+ul{
+    font-family: 'Commissioner', sans-serif;
+}
+h1{
+    font-family: 'Commissioner', sans-serif;
+}
+nav{
+    font-family: 'Commissioner', sans-serif;
+}
+body{
+    background-color: #67A1E0;
+}
+nav{
+    color: #EEF7FC;
+}
+p{
+    color: #060E0D
+}
+ul{
+    color: #060E0D
+}
+
